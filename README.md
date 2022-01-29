@@ -1,1 +1,1 @@
-[LINK](https://rtk-query-simple-example.netlify.app/ "LINK")
+[LINK](https://wordle-guesser.netlify.app/ "LINK")
